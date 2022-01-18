@@ -1,7 +1,6 @@
 import discord
 from discord.ext import commands
-from permissionvalue import permissions
-
+from def_pack.permissionvalue import permissions
 
 class Info(commands.Cog):
     def __init__(self, bot: commands.Bot):
