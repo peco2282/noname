@@ -1,1 +1,1 @@
-from .def_pack import *
+from def_pack import *
