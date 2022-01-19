@@ -1,1 +1,1 @@
-from .permissionvalue import *
+from permissionvalue import *
